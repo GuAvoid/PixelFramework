@@ -1,4 +1,3 @@
-# PixelFramework
 What's New?
 - Auto Buff with user's input. (DK only)
 - Auto Change Channel with user's input.
@@ -9,3 +8,4 @@ What's New?
 - Move "Key.lic" to latest version of bot folder.
 - [-PLEASE REMEMBER-]
 - Rename your Nox to something like ie. Nox_01, Nox_02.
+Tutorial: https://youtu.be/d-gGJ7zEjRw
