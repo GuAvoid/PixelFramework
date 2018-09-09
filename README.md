@@ -8,4 +8,4 @@ What's New?
 - Move "Key.lic" to latest version of bot folder.
 - [-PLEASE REMEMBER-]
 - Rename your Nox to something like ie. Nox_01, Nox_02.
-Tutorial: https://youtu.be/d-gGJ7zEjRw
+- Tutorial: https://youtu.be/d-gGJ7zEjRw
