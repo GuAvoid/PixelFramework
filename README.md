@@ -1,14 +1,8 @@
-Pixel Bot Version 6.1.4
+Pixel Bot Version 6.2.1
 
-- Auto Cygnus Tutorial Lv.1 (Beta)
+- Auto Channel is not available.
 
-- Cygnus Auto Quest is added. (Beta)
-
-- Auto Buff for all classes is added. (Beta)
-
-- Auto Add Buff Skill into slot (all classes) is added. (Beta)
-
-- Auto Cloe PopUp (Beta)
+- Fixed all bugs from user's feedback.
 
 - Tutorial: https://youtu.be/d-gGJ7zEjRw
 
@@ -21,4 +15,11 @@ Pixel Bot Version 6.1.4
 - Rename your Nox to something like ie. Nox_01, Nox_02
 
 
-*Bot will get stuck sometime due to Cygnus update. I'll improve it in next version.*
+**ABOUT ADB**
+
+- You only need to attach ADB port once. (Check in Bot settings)
+For example, if Nox_01 has IP of 127.0.0.1:62001
+and it's attached to Page1 in Pixel bot.
+You don't have to set up ADB port again for next time
+only if you attach Nox_01 to Page1 again.
+ 
